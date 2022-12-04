@@ -1,0 +1,2 @@
+import shellcodloader
+shellcodloader.main()
